@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Portfolio-
-=======
 # Portfolio - John Doe (React)
 
 Projet de portfolio réalisé avec React, React Router et Bootstrap, selon le brief.
@@ -11,4 +8,3 @@ Projet de portfolio réalisé avec React, React Router et Bootstrap, selon le br
 ## Installation
 ```bash
 npm install
->>>>>>> e9ed2b8 (chore: add project files)
